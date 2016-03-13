@@ -1,6 +1,11 @@
 blockquote{
     border-left: 5px solid #f9f9f9;
 }
+
+.foot{
+    border-top: 1px solid #dcdcdc;
+    padding: 4px 0 20px;
+}
 .jumbotron{
     text-align: center;
 }
